@@ -33,6 +33,6 @@ In case of not existing organization name:
 
 
 
-This project also includes few test scenarions located in data_model_test.py file as well as 2 configuration files are included. 
+This project also includes few test scenarions made with usage of unittest package, located in data_model_test.py file as well as 2 configuration files are included. 
 
 Python version: 3.10
