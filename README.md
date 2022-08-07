@@ -1,7 +1,7 @@
 # membership_fee_counter
-Small project with calculating of membership fee
+This project is calculating membership fees based on given informations. 
 
-This project is calculating rent fees based on given informations. 
+
 Aim for this project is to first load organization_structure file and configuration file. Next it is asking user for a 3 inputs, rent period, rent amount
 and name of organization structure. During this step every user input is being validated.
 Next step is to calculate membership fee based on given data and show it to user, it is made through comand line: 
