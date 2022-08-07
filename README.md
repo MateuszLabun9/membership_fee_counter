@@ -2,9 +2,12 @@
 This project is calculating membership fees based on given informations. 
 
 
-Aim for this project is to first load organization_structure file and configuration file. Next it is asking user for a 3 inputs, rent period, rent amount
+Aim for this project is to first load organization_structure file and configuration file. In the next step user is asked for a 3 inputs, rent period, rent amount
 and name of organization structure. During this step every user input is being validated.
-Next step is to calculate membership fee based on given data and show it to user, it is made through comand line: 
+Next step is to calculate membership fee based on given data and show it to user. During user's input stage proper validation is made, in case of not valid input,
+proper error message is being displayed, and user is asked to provide value once again.
+
+View of succesful calculation of memberhsip fee:
 
 ![image](https://user-images.githubusercontent.com/44081987/183310321-50407be2-76dc-4f5f-9ef3-c26e718d5254.png)
 
