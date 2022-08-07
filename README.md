@@ -34,4 +34,5 @@ In case of not existing organization name:
 
 
 This project also includes few test scenarions located in data_model_test.py file as well as 2 configuration files are included. 
+
 Python verion: 3.10
